@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Book Publishing | .Net MVC,WebAPI,MSSQL",
+    "description": "Website for publishing books from manuscript and selling through bookstore with workflows using the help of CRM and CMS application",
+    "url": "www.westbowpress.com"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Crypto Tracker | ReactJS,WebAPI,Material UI",
+    "description": "Crypto currency dashboard with realtime data and performance using the chartJS and Coin Page for each currency",
+    "url": ""
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "Covid Tracker | ReactJS, Firebase, WebAPI",
+    "description": "Covid tracking dashbord for covid cases(active,inactive,totalcases) and detailed page for each state for a list of countries",
+    "url": ""
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "CRM Application | ASP.Net MVC,MSSQL",
+    "description": "Customer relationship management software for the internal use for non banking financial institution along with KPI matrics",
+    "url": ""
   }
 ]
